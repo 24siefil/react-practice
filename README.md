@@ -1,5 +1,6 @@
 # Technical Features
 
+* **Demo**: https://24siefil.github.io/react-todo-list/
 * `Context API`를 활용하여 `todos` 배열과 관련 코드가 전역적으로 관리된다.
 * `todos` 배열은 `useReducer`를 통해 관리된다.
   * `Reducer`는 `CREATE`, `TOGGLE`,` REMOVE` `action.type`을 지원한다.
