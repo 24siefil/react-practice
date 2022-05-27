@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "immer": "^9.0.14",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0",
+    "redux-actions": "^2.6.5",
+    "redux-devtools-extension": "^2.13.9",
+    "styled-components": "^5.3.5"
+  }
+}
